@@ -38,10 +38,10 @@ Agregados
 git commit --amend -m "Agrega solucion primer ejercicio"
 
 12. Publicar a Github en un repositorio llamado aspirantes-mir-ejercicio-1.
-git remote add origin 
+git remote add origin https://github.com/AnnieOchoa/Aspirantes-mir-ejercicio-1.git
 git push origin main 
 
 
 13. Enviar el link del repositorio en Github a esta misión.
-
+https://github.com/AnnieOchoa/Aspirantes-mir-ejercicio-1.git
 
